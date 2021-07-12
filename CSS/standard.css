@@ -1,8 +1,15 @@
 nav{
+    display: flex;
 background-color: blue;
+justify-content: space-between;
 }
 
 a{
 color: cyan;
 
+}
+
+.content{
+font-size: 14pt;
+font-style: italic;
 }
